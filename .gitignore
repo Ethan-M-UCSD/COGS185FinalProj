@@ -1,1 +1,2 @@
-*.pt
+/model_weights
+/wandb
